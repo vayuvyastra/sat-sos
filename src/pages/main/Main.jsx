@@ -1,5 +1,6 @@
 import "./Main.css";
 import Card from "./components/Card.jsx"
+import SegBtn from "./components/Seg-btn.jsx"
 
 function Main() {
   return (
@@ -17,9 +18,11 @@ function Main() {
           co-operation, and respect for others in society. Furthermost, the club
           is resorted to the students at the technological universities with
           different streams and different universities staffs."/>
-        <p>
+        <SegBtn />
+
+        
           
-        </p>
+        
       </div>
     </>
   );
