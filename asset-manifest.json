@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sat-sos/static/css/main.06753065.css",
-    "main.js": "/sat-sos/static/js/main.72308556.js",
+    "main.css": "/sat-sos/static/css/main.df59a333.css",
+    "main.js": "/sat-sos/static/js/main.5532ed8c.js",
     "static/media/EuclidCircularBMedium.ttf": "/sat-sos/static/media/EuclidCircularBMedium.da9107f189000fddc6e7.ttf",
     "static/media/SharpSansBold.otf": "/sat-sos/static/media/SharpSansBold.aa00a9ddc5c9fefd684c.otf",
     "static/media/vayuvyastra_logo_name.png": "/sat-sos/static/media/vayuvyastra_logo_name.e46ce6ab83300208a7d4.png",
     "index.html": "/sat-sos/index.html",
-    "main.06753065.css.map": "/sat-sos/static/css/main.06753065.css.map",
-    "main.72308556.js.map": "/sat-sos/static/js/main.72308556.js.map"
+    "main.df59a333.css.map": "/sat-sos/static/css/main.df59a333.css.map",
+    "main.5532ed8c.js.map": "/sat-sos/static/js/main.5532ed8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.06753065.css",
-    "static/js/main.72308556.js"
+    "static/css/main.df59a333.css",
+    "static/js/main.5532ed8c.js"
   ]
 }
