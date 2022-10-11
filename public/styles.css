@@ -9,26 +9,21 @@
   --secondary-dark: #519657;
   --error: #b00020;
 }
-
 p {
   font-family: "Roboto";
   font-weight: 400;
 }
-
-.plain-link{
+.plain-link {
   font-family: "euclidCircularBMedium";
   font-size: small;
   text-decoration: none;
 }
-
-.plain-link:hover{
+.plain-link:hover {
   border-bottom: 1px solid;
 }
-
-.primary{
+.primary {
   color: var(--primary-anchhor);
 }
-
 .do-not-touch {
   -webkit-user-select: none; /* Chrome all / Safari all */
   -moz-user-select: none; /* Firefox all */

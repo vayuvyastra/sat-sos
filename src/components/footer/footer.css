@@ -1,51 +1,47 @@
-
-.foot-container{
-    margin-top:-8vh ;
-    width:100% auto;
-    background-color: black;
-    height:auto;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-
+.foot-container {
+  margin-top: -8vh;
+  width: 100% auto;
+  background-color: black;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.footer-element{
-    padding:15px;
-    overflow: hidden;
-    object-fit: contain;
+.footer-element {
+  padding: 15px;
+  overflow: hidden;
+  object-fit: contain;
 }
-.footer-element:hover{
-    scale:0.9;
-    cursor:pointer;
-    box-shadow:0 0 10px;
-   transition: .5s;
+.footer-element:hover {
+  scale: 0.9;
+  cursor: pointer;
+  box-shadow: 0 0 10px;
+  transition: 0.5s;
 }
 .do-not-touch {
-    -webkit-user-select: none; /* Chrome all / Safari all /
+  -webkit-user-select: none; /* Chrome all / Safari all /
     -moz-user-select: none; / Firefox all /
     -ms-user-select: none; / IE 10+ */
-    user-select: none;
-  }
-.bi-1:hover{
-    fill: darkblue;
-    background-color: whitesmoke;
-    
+  user-select: none;
 }
-.bi-2:hover{
-    fill:#FF4301;
-    background-color: whitesmoke;
-} 
-.bi-3:hover{
-    fill: #d6249f;
-    background-color: whitesmoke;
+.bi-1:hover {
+  fill: darkblue;
+  background-color: whitesmoke;
 }
-.bi-4:hover{
-    fill:#0072b1;
-    background-color: whitesmoke;
+.bi-2:hover {
+  fill: #ff4301;
+  background-color: whitesmoke;
 }
-.bi-5:hover{
-    fill:#00ACEE;
-    box-shadow: 0px 3px 10px rgba(0,0,0,.25);
-    background-color: whitesmoke;
+.bi-3:hover {
+  fill: #d6249f;
+  background-color: whitesmoke;
 }
-    
+.bi-4:hover {
+  fill: #0072b1;
+  background-color: whitesmoke;
+}
+.bi-5:hover {
+  fill: #00acee;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.25);
+  background-color: whitesmoke;
+}
